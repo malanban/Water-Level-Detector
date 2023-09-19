@@ -108,3 +108,12 @@ https://www.programming-electronics-diy.xyz/2021/02/playing-music-and-tones-usin
 https://youtube.com/playlist?list=PLA6BB228B08B03EDD
 
 https://embedds.com/programming-avr-i2c-interface/
+
+## Team Members
+Malanban K.
+
+Manimohan T.
+
+Madhushan R.M.S
+
+Madusan A.K.C.S
