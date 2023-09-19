@@ -100,7 +100,11 @@ Once again, thank you to all who have been a part of this project, contributing 
 
 ## References
 https://www.electronicwings.com/avr-atmega/interfacing-lcd-16×2-in-4-bit-mode-with-atmega16-32-
+
 https://www.youtube.com/watch?v=lq0R4Yz05o4
+
 https://www.programming-electronics-diy.xyz/2021/02/playing-music-and-tones-usingpiezo.html
+
 https://youtube.com/playlist?list=PLA6BB228B08B03EDD
+
 https://embedds.com/programming-avr-i2c-interface/
